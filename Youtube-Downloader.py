@@ -11,6 +11,6 @@ print("Views: ", yt.views)                      # Display the number of views th
 
 yd = yt.streams.get_highest_resolution()        # Download the highest resolution available
 
-yd.download("D:/youtube/videos")                # Download the videos on this file
+yd.download("D:/youtube/videos")                # Check it to to the directory you want
 
 # Read the Readme file to get the instructions on how to use the downloader
