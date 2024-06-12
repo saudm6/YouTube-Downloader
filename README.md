@@ -19,7 +19,7 @@ Enjoy !!!
 # Mac
 
 Install pytube on your PC/Mac by using the command
-    ```bash
+```bash
 pip3 install pytube
 ``` 
 Change the line 14 from "D:/youtube/videos" to the file you would like the video to download to.
