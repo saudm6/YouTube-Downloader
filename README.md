@@ -3,7 +3,7 @@ Download YouTube videos using python.
 
 # Windows
 
-1) Install pytube on your PC/Mac by using the command
+1) Install pytube on your PC/Mac by using the command <br>
     ```pip install pytube``` for Windows & ```pip3 install pytube for Mac``` 
 3) Change the line 14 from "D:/youtube/videos" to the file you would like the video to download.
 4) Finally you are going to open the terminal on you IDE and type ```py Youtube-Downloader.py https://www.youtube.com/watch?v=-qJiDPljeB4``` (Windows).
