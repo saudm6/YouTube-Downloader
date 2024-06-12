@@ -18,14 +18,15 @@ Open the terminal on your IDE and type
 Enjoy !!!
 # Mac
 
-Install pytube on your PC/Mac by using the command <br>
+Install pytube on your PC/Mac by using the command
     ```bash
 pip3 install pytube
 ``` 
 Change the line 14 from "D:/youtube/videos" to the file you would like the video to download to.
-Open the terminal on your IDE and type <br> ```bash
+Open the terminal on your IDE and type
+```bash
 python3 Youtube-Downloader.py YouTube-Link
 ``` 
-   Replace the youtube link with whatever video you would like to download.
+Replace the youtube link with whatever video you would like to download.
    
 Enjoy !!!
